@@ -1,3 +1,6 @@
 # Homework2
 
-`Coming Soon` 
+[Part1]
+[Part2]
+[Part 3]
+
